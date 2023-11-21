@@ -1,0 +1,24 @@
+{
+    "Adrian Gonzales": {
+        "@context": "http://www.schema.org",
+        "@type": "Person",
+        "@id": "https://virexmachina.com/",
+        "name": "Adrian Gonzales",
+        "alternateName": "Adrian Gonzales",
+        "jobTitle": "CTO",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "MarketMuscles",
+                "sameAs": [
+                    "https://marketmuscles.com/"
+                ]
+            }
+        ],
+        "url": "https://virexmachina.com/",
+        "image": "https://virexmachina.com/img/card-og.png",
+        "sameAs": [
+            "https://virexmachina.com/"
+        ]
+    }
+}

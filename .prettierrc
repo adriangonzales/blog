@@ -1,0 +1,23 @@
+{
+  "useTabs": false,
+  "bracketSpacing": true,
+  "bracketSameLine": true,
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5",
+  "semi": true,
+  "printWidth": 500,
+  "arrowParens": "always",
+  "braceStyle": "1tbs",
+  "htmlWhitespaceSensitivity": "strict",
+  "phpVersion": "8.2",
+  "quoteProps": "as-needed",
+  "singleAttributePerLine": false,
+  "tabWidth": 2,
+  "trailingCommaPHP": true,
+  "endOfLine": "auto",
+  "importOrderSeparation": true,
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ]
+}
