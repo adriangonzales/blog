@@ -104,3 +104,9 @@ html {
 .blog-content :not(h1):not(h2):not(h3):not(h4):not(h5) a {
     @apply underline font-bold text-brand_primary;
 }
+
+/* Blog Elements */
+
+.note-block{
+    @apply p-6 italic bg-yellow-100 text-yellow-800 rounded;
+}
