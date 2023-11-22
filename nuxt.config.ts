@@ -1,6 +1,7 @@
 export default defineNuxtConfig({
     app: {
         baseURL: '/',
+        buildAssetsDir: '_nuxt'
     },
     modules: ['@nuxtjs/tailwindcss', '@nuxt/content'],
     css: ['/assets/css/main.css'],
