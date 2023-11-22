@@ -6,10 +6,10 @@ useHead({
 
 <template>
   <HeaderPrimary class="border-chelsea-cucumber-800 border-b shadow-lg" />
-  <main class="bg-chelsea-cucumber-900 z-0 flex flex-col items-center justify-center">
+  <main class="bg-chelsea-cucumber-950 z-0 flex flex-col items-center justify-center">
     <div class="z-20">
-      <h1 class="mt-12 block w-full max-w-xl text-center">
-        <svg class="pointer-events-none w-full -rotate-3 scale-125 transform fill-current text-copper-500 drop-shadow-xl" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 339.38 84.38">
+      <h1 class="text-chelsea-cucumber-300 mt-12 block w-full max-w-xl text-center">
+        <svg class="pointer-events-none w-full -rotate-3 scale-125 transform fill-current drop-shadow-xl" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 339.38 84.38">
           <g>
             <path
               d="M74.1,39.65a48.84,48.84,0,0,0-9.34-.55A114.13,114.13,0,0,0,56.6,60.7q-1.33,5.16-10,5.16-7.19,0-9.14-3.36a3.24,3.24,0,0,1-.55-2.21,10.08,10.08,0,0,1,1-2.81q.86-1.74,2.34-4.32l3.44-5.86,4.22-6.91L32.15,41.68A146.64,146.64,0,0,1,20,59.49q-3.24,3.94-9.53,3.95a16.92,16.92,0,0,1-8.4-2Q-.07,60.2,0,59.22a4,4,0,0,1,1.56-2.73A99.29,99.29,0,0,0,14,43.13l-6,.47q-4.49.12-5.62-2a8,8,0,0,1-.9-3.83,4.11,4.11,0,0,1,.7-2.46,2.93,2.93,0,0,1,1.56-1.21,8.77,8.77,0,0,1,2-.27l16.25-2q9.65-15.55,10.9-17.44a23.77,23.77,0,0,1,2.46-3.18q3-3,6.13-3A6,6,0,0,1,45.63,10a2.37,2.37,0,0,1,.86,1.8q0,2-2.19,6.48l-5.7,11.6,17.5-2.19Q63.44,17,66.21,13.48q5.66-7.23,7.89-8.32Q78.32,3,80.24,3T82.62,4.1a3.83,3.83,0,0,1,.29,2.19,9.32,9.32,0,0,1-1.13,2.87q-1,1.74-2.48,4.28l-7.77,13a5.32,5.32,0,0,1,3.55,1.33q1.72,1.88,1.72,5.94a19.43,19.43,0,0,1-.74,5.47Q75.74,39.65,74.1,39.65Z"></path>
