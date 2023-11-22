@@ -6,7 +6,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "gh-pages --dotfiles -d .output/public"
+    "deploy": "gh-pages --dotfiles --cname virexmachina.com -d .output/public"
   },
   "devDependencies": {
     "@nuxt/content": "^2.5.2",

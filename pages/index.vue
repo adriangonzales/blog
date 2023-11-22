@@ -41,7 +41,7 @@ useHead({
         </p>
 
         <p>
-          Over nearly 20 years of software engineering and user experience design, I’ve partnered with agencies like
+          Over 20+ years of software engineering and user experience design, I've partnered with agencies like
           <a href="https://www.sapientrazorfish.com/" target="_blank" rel="noreferrer">SapientRazorfish</a>, <a href="http://www.publicisna.com/" target="_blank" rel="noreferrer">Publicis</a>, <a href="https://getwrecked.com/" target="_blank" rel="noreferrer">Wrecking Ball</a>, and <a href="http://condensed.io/" target="_blank" rel="noreferrer">Condensed</a>, to deliver globally impactful work for brands such as
           <strong class="whitespace-nowrap">
             <svg class="inline-block h-4 w-4">

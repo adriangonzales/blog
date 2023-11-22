@@ -5,10 +5,6 @@ export default defineNuxtConfig({
     },
     modules: ['@nuxtjs/tailwindcss', '@nuxt/content'],
     css: ['/assets/css/main.css'],
-    ssr: true,
-    experimental: {
-        payloadExtraction: false
-    },
     router: {
         options: {
             strict: false
@@ -33,5 +29,19 @@ export default defineNuxtConfig({
                 ]
             ]
         }
-    }
+    },
+    routeRules: {
+        "/2015/02/28/starting-again.html": {
+            redirect: {
+                to: "/blog/2015-02-28-starting-again/",
+                statusCode: 301,
+            },
+        },
+        "/2015/10/08/better-wordpress-cron-jobs-crontab-wpcli.html": {
+            redirect: {
+                to: "/blog/2015-10-08-better-wordpress-cron-jobs-crontab-wpcli/",
+                statusCode: 301,
+            },
+        },
+    },
 });
